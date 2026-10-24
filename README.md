@@ -16,17 +16,17 @@ TBD (Target Audience: Y-14)
 # Current Status
 Pre-Production
 # Production Goals
-Complete Series Bible
-Finalize Main Characters
-Finish Pilot Script
-Create Concept Art
-Develop Environment Designs
-Produce Pilot Animatic
+* Complete Series Bible
+* Finalize Main Characters
+* Finish Pilot Script
+* Create Concept Art
+* Develop Environment Designs
+* Produce Pilot Animatic
 # Repository Structure
-Story
-Characters
-Worldbuilding
-ConceptArt
-Production
-Adobe Creative Suite
-Maya
+* Story
+* Characters
+* Worldbuilding
+* Concept Art
+* Production
+* Adobe Creative Suite
+* Maya
