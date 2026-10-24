@@ -1,5 +1,5 @@
 # Enigma
-A 2D animated anime series that explores futuristic mysteries and scientific discoveries through a biblical lens, featuring a suspenseful, plot-twisting narrative and resonating character arcs. 
+A animated anime series that explores futuristic mysteries and scientific discoveries through a biblical lens, featuring a suspenseful, plot-twisting narrative and resonating character arcs. 
 # Synopsis
 In 2137 A.D., research geneticist Dr. Gus Hoffnug is an employee of One Dimension (OD), a world-renowned educational institution. With heightened suspicions and an influx of crime, biologist Faith Bolton and Pierce Ai, Chief Officer of the Sciences Division, join Dr. Hoffnug in investigating mysteries surrounding the facility, missing persons, family lineages, and the hidden forces crippling their world. As personal, relational, and societal challenges intensify, their objective becomes clear: to discover the ultimate solution to the devastation of their fallen world.
 # Genres
