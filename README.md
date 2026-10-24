@@ -7,12 +7,12 @@ Mystery, Science Fiction, Supernatural, Suspense, Action, Dark, Adventure, Roman
 # Rating
 TBD (Target Audience: Y-14)
 # Themes
-Mystery
-Science
-Relationships
-Truth
-Redemption
-Hope
+* Mystery
+* Science
+* Relationships
+* Truth
+* Redemption
+* Hope
 # Current Status
 Pre-Production
 # Production Goals
