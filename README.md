@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c62c8b9-3a64-4877-9c66-2d8726de0408" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c62c8b9-3a64-4877-9c66-2d8726de0408"/>
+
 # Enigma
 An animated anime series that explores futuristic mysteries and scientific discoveries through a biblical lens, featuring a suspenseful, plot-twisting narrative and resonating character arcs. 
 # Synopsis
